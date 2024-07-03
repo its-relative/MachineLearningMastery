@@ -34,7 +34,7 @@ This repository contains assignments and projects I completed as part of my data
 
 ## About Me
 
-I'm Sapeksh Tomar a data science enthusiast with a passion for learning and exploring new technologies. You can find more about me on [Your LinkedIn Profile] or [Your Personal Website].
+I'm Sapeksh Tomar a data science enthusiast with a passion for learning and exploring new technologies. You can find more about me on https://www.linkedin.com/in/sapeksh-tomar/.
 
 ## License
 
